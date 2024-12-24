@@ -1,0 +1,6 @@
+name: smotion_dart_extension
+description: dart core classes extensions
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0"
